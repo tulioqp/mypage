@@ -1,8 +1,6 @@
-[página](https://tulioqp.github.io/mypage/)
+<br>[**minha página :)**](https://tulioqp.github.io/mypage/)<br><br>
 
-
-
-README original (autor do HTML):
+author's README:<br>
 
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
